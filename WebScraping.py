@@ -27,6 +27,6 @@ class Analysis(object):
 
 a=Analysis("bitcoin")
 a.run()
-print(a.term, "Subjectivity:",a.subjectivity,"Sentiment:",a.sentiment )
+print(a.term, "Subjectivity:", a.subjectivity,"Sentiment:", a.sentiment )
 
 
